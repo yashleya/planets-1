@@ -1,0 +1,4 @@
+I've learned that a pull is the same as a fetch plus a merge and I've 
+learned what how forking works.  WHen I merged there was nothing to 
+merge because I just forked it. That's not really anything anyone can 
+help though.  
